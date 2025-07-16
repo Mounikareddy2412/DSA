@@ -1,3 +1,4 @@
+package Java;
 class Solution{
     public boolean hasDuplicate(int[] nums){
         int n=nums.length;
